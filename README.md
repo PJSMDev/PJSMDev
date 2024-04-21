@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on CTFs and Coding projects
 - 📫 How to reach me pjsm.lesi@gmail.com
-- ⚡ Fun fact: proud BJJ white stripe
+- ⚡ Fun fact: proud 2 stripes BJJ white belt
 
 <!---
 PJSMDev/PJSMDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
